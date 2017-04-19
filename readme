@@ -1,0 +1,6 @@
+This python application helps to generate a wordlist of passwords for security testing.
+The idea is to provide it with a keyword and it does add it to two files on called: passlist_small and the other passlist_large:
+it appends after the keyword a number and it goes till 3000 for the small list, and till 10000 for the large list.
+You can change both numbers in the code.
+Use: python32 passgen.py
+Then you provide the keyword
